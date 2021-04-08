@@ -1,0 +1,9 @@
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.csprojAssemblyReference.cache
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.AssemblyInfoInputs.cache
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.AssemblyInfo.cs
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.RazorAssemblyInfo.cache
+/Users/amberli/Projects/DemoApp/DemoApp/obj/Debug/net5.0/DemoApp.RazorAssemblyInfo.cs

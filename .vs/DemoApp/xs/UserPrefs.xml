@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{A26F1794-AA4F-44FD-AC80-28A87BC4F600}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoApp/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="DemoApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="DemoApp/Controllers/AccountController.cs" Line="161" Column="7" />
+      <File FileName="DemoApp/Models/Login.cs" />
+      <File FileName="DemoApp/Startup.cs" />
+      <File FileName="DemoApp/Properties/launchSettings.json" />
+      <File FileName="DemoApp/appsettings.json" />
+      <File FileName="DemoApp/appsettings.Development.json" />
+      <File FileName="DemoApp/Models/Account.cs" />
+      <File FileName="DemoApp/Program.cs" />
+      <File FileName="DemoApp/DemoApp.csproj" />
+      <File FileName="DemoApp/Data/DemoDbContext.cs" />
+      <File FileName="DemoApp/Migrations/20210330095546_InitialCreate.cs" />
+      <File FileName="DemoApp/Migrations/DemoDbContextModelSnapshot.cs" />
+      <File FileName="DemoApp/Migrations/20210330095546_InitialCreate.Designer.cs" />
+      <File FileName="DemoApp/Data/DbInitializer.cs" />
+      <File FileName="DemoApp/Models/PutBetModel.cs" />
+      <File FileName="DemoApp/Models/BetResult.cs" />
+      <File FileName="DemoApp/Models/Balance.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="DemoApp" expanded="True">
+            <Node name="DemoApp" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20210330095546_InitialCreate.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoApp PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
